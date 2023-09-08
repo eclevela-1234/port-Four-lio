@@ -1,0 +1,13 @@
+
+body {
+    
+
+}
+#profile {
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+    border-radius: 100%;
+    border: 2px solid lightgray;
+    box-shadow: 5px 5px 5px 0 lightgray;
+}
