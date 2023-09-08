@@ -1,12 +1,19 @@
-
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 body {
-    
-
+    background-color: azure;
+    margin: 0 10%
+}
+h1 {
+    text-align: center;
+    color: darkgray;
+    text-shadow: 1px 1px 2px black;
 }
 #profile {
     display: block;
     margin: 10px auto;
-    width: 300px;
+    width: 200px;
     border-radius: 100%;
     border: 2px solid lightgray;
     box-shadow: 5px 5px 5px 0 lightgray;
